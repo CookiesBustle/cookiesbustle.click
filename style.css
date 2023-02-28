@@ -1,0 +1,23 @@
+/* CSS for Cookie's Bustle page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000000; /* set background color to black */
+    color: #ffffff; /* set text color to white */
+}
+
+header, section {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #111111; /* set background color to a dark gray */
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h1, h2 {
+    font-weight: bold;
+    margin-top: 0;
+}
+
+ul {
+    list-style: disc;
+    margin-left: 20px;
+}
